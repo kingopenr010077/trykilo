@@ -1,0 +1,23 @@
+{
+  "name": "agent_93fbf0c0-d1b4-4fcd-9129-710a419d1b13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:kgh2.IVs3S03mmf8cHdsxuyVjVw%3D%3D%3AJgK0GpcBOCzjfaXphS4SJQ%3D%3D%3Ahp+9ixg7mPK556RbKwVLuu4WwPqcYbBdyW3KgBHcWkQazUC9X7vxm7qVmDkn3uP3sk81FX5DJBj65T4XgLW4tHvog9PGEPhw7mB0J%2F0dddZFV7ysJPsbR30BjPfnw70tL98eBUTYExFj+1i+kQc2BI3Z+6Cvnj+BgeW8yUpddth7rWxXWVN943zbVpQ1bc32nUfNsb7mQZ7WxFg2Pc3IsqtHb5fJHGB72xXZPWmn6G+5sjqA57AXlJcQJD8tynRKIKYvK9Y98Bj6X6w5rdFCiAQ7cJC8I0dnjtdP+AeinomnnkeGXtGRdzR3J0ypUCV8W7PVY4NGGrdmrNiJHEZaQZ521+oXtKiupHohVS9jRyl1gBpE+dvtC7M+29uBq4LUVk+sOGlzHKcRb%2FP%2FjV%2F%2FXQRFW%2FTU+06QPnUfZXoDrEMu8pxhfE1Iw1q1uRgD1cb2gdcxMQ%2FySE%2Fbc3PlC5fWHDVKWgw2X4MayzwR4Q8X2E2%2FTlc41yMnnroX2JUT+ZpaSKYjvLySjwKQK2fsAGUnh8P8YTu1LkqCMO+eBH0QmuhDRFON8bsZVifcXtIMLOZgCIHs6yPjC6m366Mi%2F+DDiMUHJn6WgZrb7YqGn6JUbcA9v6uPMO7MM9LP0dAeX4SMXb5z2Tk0nOM+K90JOarvSAm+uL2kTegjpFzTmclTxH+iFwk9LUBVtWsVi6sDvm0A4Zr5CNOUm7GWK+N9XZVDg3PdW5FHI%2Fnl9SEeAm%2Flzw2tTKPRyb9oBb%2FfELhXGrYAGR%2FY%2FCMg6YOOAFJi9w5SKTmI@github.com/kingopenr010077/trykilo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingopenr010077/trykilo/issues"
+  },
+  "homepage": "https://github.com/kingopenr010077/trykilo#readme",
+  "dependencies": {
+    "ffocr": "^0.1.13"
+  }
+}
