@@ -3,7 +3,9 @@ const fs = require('fs');
 const path = require('path');
 const { createWorker } = require('tesseract.js');
 
-const worker = createWorker();
+const worker = createWorker({
+  cachePath: '/tmp/agent_93fbf0c0-d1b4-4fcd-9129-710a419d1b13/tessdata'
+});
 const PORT = process.env.OCR_PORT || 8765;
 
 const ALLOWED_DIRS = [
@@ -84,7 +86,7 @@ const server = http.createServer(async (req, res) => {
     const body = await new Promise(resolve => {
       const data = [];
       req.on('data', chunk => data.push(chunk));
-      req.on('end', () => resolve(Buffer.concat(data).toString());
+      req.on('end', () => resolve(Buffer.concat(data).toString()));
     });
     try {
       const json = JSON.parse(body);
